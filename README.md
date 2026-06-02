@@ -8,11 +8,12 @@ This project demonstrates end to end data cleaning showcasing how raw HSE incide
 -Spelling errors
 -Blank rows
 #### Data cleaning steps
-1.Removed dublicate records
-2.Standardized date formats
-3.Replaced inconsistent text values
-4.Handled missing values
-5.Removed unnecessary columns
+1.Splited data into their columns by using text to columns
+2.Removed dublicate records
+3.Standardized date formats
+4.Replaced inconsistent text values
+5.Handled missing values
+6.Removed unnecessary columns
 ##### Tools Used
 - Microsoft excel.
 - Power Query.
