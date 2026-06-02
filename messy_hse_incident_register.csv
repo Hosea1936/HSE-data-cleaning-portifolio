@@ -1,0 +1,100 @@
+Date;Site;Department;Incident_Type;Severity;Injured_Person;Gender;Age;Body_Part;Lost_Days;Hours_Worked;Reported_By;Corrective_Action_Status;Incident_Description;Root_Cause
+15/03/2024;Site A;Construction;Fall from height;Major;John Mwangi;Male;34;Head;5;48;James Oloo;Closed;Worker fell from scaffold;Lack of harness
+March 16 2024;SITE B;Electrical;Electric shock;MINOR;Peter Kamau;M;28;Hand;0;40;Sarah Wanjiku;open;Contact with live wire;No PPE
+17-03-2024;Site A;Construction;fall from height;moderate;Alice Njeri;Female;25;Back;3;44;James Oloo;CLOSED;Slipped on scaffold board;Wet surface
+2024-03-18;site c;Mechanical;Caught in machinery;MAJOR;David Otieno;male;41;Fingers;12;56;Tom Kipchoge;Pending;Hand caught in conveyor belt;Guard missing
+19-Mar-24;Site B;Construction;Slip and fall;minor;;Female;30;Knee;1;38;Sarah Wanjiku;closed;Slipped on muddy ground;Poor housekeeping
+20/03/2024;SITE A;Chemical;Chemical splash;Major;Michael Ochieng;Male;37;Eyes;0;50;James Oloo;IN PROGRESS;Chemical splashed in eyes;No goggles worn
+March 21st 2024;Site C;Construction;Fall from height;MINOR;Grace Akinyi;F;22;Ankle;2;42;Tom Kipchoge;Closed;Fell from ladder;Ladder not secured
+22-03-2024;site b;Electrical;Electric shock;major;Robert Mutua;Male;45;Arm;7;60;Sarah Wanjiku;open;Shocked while repairing panel;Isolation not done
+23/03/2024;Site A;Construction;SLIP AND FALL;Minor;Lucy Wambui;female;29;Hip;0;36;James Oloo;closed;Tripped over cable;Poor housekeeping
+2024-03-24;SITE C;Mechanical;Struck by object;Moderate;Hassan Abdi;Male;33;Shoulder;4;52;Tom Kipchoge;Pending;Hit by falling pipe;Exclusion zone not marked
+25/03/2024;Site B;Construction;slip and fall;MINOR;Jane Muthoni;Female;27;Wrist;1;40;Sarah Wanjiku;CLOSED;Slipped on wet floor;No warning signs
+March 26 2024;site a;Chemical;Chemical splash;moderate;Stephen Kariuki;M;38;Face;0;48;James Oloo;In Progress;Acid splash on face;Improper handling
+27-03-2024;Site C;Construction;Fall From Height;major;Mary Adhiambo;Female;31;Head;8;44;Tom Kipchoge;open;Fell from roof;No fall protection
+2024-03-28;SITE B;Electrical;ELECTRIC SHOCK;Minor;Francis Njoroge;male;26;Hand;0;38;Sarah Wanjiku;closed;Minor shock from socket;Faulty equipment
+29-Mar-24;Site A;Mechanical;Caught in machinery;Moderate;Esther Chebet;Female;35;Hand;5;56;James Oloo;PENDING;Fingers caught in drill;No machine guard
+30/03/2024;site c;Construction;Struck by object;MINOR;Samuel Wekesa;Male;42;Leg;2;50;Tom Kipchoge;Closed;Hit by swinging door;Poor visibility
+March 31st 2024;Site B;Construction;slip and Fall;minor;Catherine Mwikali;F;24;Knee;0;36;Sarah Wanjiku;closed;Knee twisted on stairs;Uneven surface
+01/04/2024;SITE A;Chemical;chemical splash;Major;Daniel Omondi;Male;39;Eyes;1;48;James Oloo;open;Splash during mixing;No PPE provided
+April 2 2024;Site C;Construction;Fall from height;MODERATE;Beatrice Auma;Female;28;Back;3;42;Tom Kipchoge;In Progress;Fell from scaffolding;Plank not secured
+03-04-2024;site b;Mechanical;Caught In Machinery;major;George Maina;Male;44;Fingers;15;60;Sarah Wanjiku;PENDING;Hand in rotating equipment;Lockout not applied
+04/04/2024;Site A;Construction;STRUCK BY OBJECT;Minor;Purity Wanjiru;female;23;Head;0;40;James Oloo;closed;Hit by falling tool;No hard hat worn
+2024-04-05;SITE C;Electrical;electric shock;minor;Joshua Otieno;Male;31;Arm;0;44;Tom Kipchoge;Closed;Shock from exposed wire;Damaged insulation
+06-Apr-24;Site B;Construction;Slip and fall;MINOR;Rose Kemunto;Female;26;Hip;1;38;Sarah Wanjiku;open;Slipped near water tank;Wet floor not marked
+07/04/2024;site a;Chemical;Chemical Splash;moderate;Isaac Kiprotich;M;36;Face;0;52;James Oloo;CLOSED;Chemical on face during transfer;Improper container
+April 8th 2024;Site C;Construction;fall from height;Major;Mercy Nyambura;Female;30;Head;6;46;Tom Kipchoge;In Progress;Fell from third floor;Barrier not installed
+09-04-2024;SITE B;Mechanical;struck by object;MINOR;Paul Oduya;Male;43;Shoulder;2;50;Sarah Wanjiku;pending;Hit by metal offcut;No exclusion zone
+10/04/2024;Site A;Construction;Slip And Fall;minor;Josephine Achieng;Female;27;Wrist;0;36;James Oloo;closed;Slipped on oily surface;Housekeeping issue
+2024-04-11;site c;Electrical;ELECTRIC SHOCK;moderate;Charles Mutuku;Male;34;Hand;3;48;Tom Kipchoge;OPEN;Shock while testing circuit;Test equipment faulty
+12-Apr-24;Site B;Construction;Fall from Height;MAJOR;Agnes Wangari;F;29;Back;9;44;Sarah Wanjiku;closed;Fell from elevated platform;Harness not worn
+13/04/2024;SITE A;Chemical;chemical splash;Minor;Benjamin Omondi;Male;40;Eyes;0;40;James Oloo;In Progress;Eye splash during cleaning;No goggles
+April 14 2024;Site C;Mechanical;Caught in machinery;MODERATE;Tabitha Moraa;Female;33;Fingers;4;56;Tom Kipchoge;Pending;Caught in lathe machine;Guard removed
+15-04-2024;site b;Construction;struck by object;minor;Vincent Otieno;Male;25;Leg;1;42;Sarah Wanjiku;CLOSED;Hit by falling brick;No barricade
+16/04/2024;Site A;Construction;SLIP AND FALL;Major;Christine Kamau;female;38;Hip;5;50;James Oloo;open;Fell down stairs;Handrail broken
+2024-04-17;SITE C;Electrical;Electric shock;minor;Dennis Waweru;Male;27;Arm;0;38;Tom Kipchoge;closed;Minor shock from panel;Earthing fault
+18-Apr-24;Site B;Chemical;Chemical Splash;MODERATE;Florence Njeri;Female;32;Face;0;44;Sarah Wanjiku;CLOSED;Splash during lab work;SOP not followed
+19/04/2024;site a;Construction;fall from height;major;Geoffrey Ochieng;M;41;Head;10;60;James Oloo;In Progress;Fell from crane platform;No safety net
+April 20th 2024;Site C;Mechanical;CAUGHT IN MACHINERY;Minor;Hannah Wanjiku;Female;24;Hand;0;40;Tom Kipchoge;pending;Glove caught in belt;Loose clothing worn
+21-04-2024;SITE B;Construction;Slip and fall;MINOR;Ian Kipkoech;Male;30;Knee;1;36;Sarah Wanjiku;Closed;Slipped on loose gravel;Path not maintained
+22/04/2024;Site A;Chemical;chemical splash;moderate;Janet Akinyi;Female;35;Eyes;2;48;James Oloo;OPEN;Eye injury during pouring;Splash guard absent
+2024-04-23;site c;Construction;Struck By Object;MAJOR;Kevin Mwangi;Male;44;Shoulder;7;52;Tom Kipchoge;closed;Hit by swinging beam;Signaling failure
+24-Apr-24;Site B;Electrical;electric shock;minor;Lilian Chebet;F;26;Hand;0;40;Sarah Wanjiku;In Progress;Shock from socket;Wet hands
+25/04/2024;SITE A;Construction;FALL FROM HEIGHT;moderate;Moses Otieno;Male;37;Back;3;46;James Oloo;Pending;Fell from ladder;Ladder defective
+April 26 2024;Site C;Mechanical;Caught in machinery;MINOR;Nancy Wambui;Female;29;Fingers;1;44;Tom Kipchoge;CLOSED;Minor crush injury;Inattention
+27-04-2024;site b;Construction;slip and fall;major;Oliver Kamau;Male;46;Hip;8;58;Sarah Wanjiku;open;Fell on wet concrete;No non-slip surface
+28/04/2024;Site A;Chemical;Chemical splash;MINOR;Patricia Adhiambo;female;23;Face;0;36;James Oloo;closed;Splash during transfer;Container overfilled
+2024-04-29;SITE C;Construction;struck by object;moderate;Quincy Mutua;Male;32;Head;4;50;Tom Kipchoge;In Progress;Hit by scaffolding pole;Unsecured material
+30-Apr-24;Site B;Electrical;ELECTRIC SHOCK;major;Rachel Muthoni;Female;39;Arm;6;56;Sarah Wanjiku;PENDING;Severe shock from cable;Cable not insulated
+01/05/2024;site a;Construction;Fall from height;MINOR;Samuel Oloo;Male;28;Ankle;2;42;James Oloo;closed;Fell from low platform;No edge protection
+May 2 2024;Site C;Mechanical;caught in machinery;moderate;Teresa Kariuki;F;34;Hand;5;52;Tom Kipchoge;Closed;Hand crushed in press;No two-hand control
+03-05-2024;SITE B;Construction;SLIP AND FALL;minor;Uriah Njoroge;Male;41;Wrist;0;38;Sarah Wanjiku;open;Slipped near toilet block;Poor drainage
+04/05/2024;Site A;Chemical;chemical splash;MAJOR;Veronica Auma;Female;27;Eyes;1;44;James Oloo;In Progress;Severe eye chemical burn;No eyewash station
+2024-05-05;site c;Construction;Struck by object;minor;Walter Odhiambo;Male;35;Leg;1;40;Tom Kipchoge;CLOSED;Hit by dropped spanner;Working at height above
+06-May-24;Site B;Electrical;Electric Shock;MODERATE;Ximena Wanjiru;Female;30;Hand;2;46;Sarah Wanjiku;pending;Shock during installation;Permit not issued
+07/05/2024;SITE A;Construction;fall from Height;major;Yusuf Abdi;M;43;Head;11;62;James Oloo;open;Fell from roof edge;No parapet wall
+May 8th 2024;Site C;Mechanical;CAUGHT IN MACHINERY;minor;Zipporah Chebet;Female;25;Fingers;0;36;Tom Kipchoge;CLOSED;Near miss — finger caught;Operator distracted
+09-05-2024;site b;Construction;slip and fall;MODERATE;Aaron Wekesa;Male;38;Hip;3;48;Sarah Wanjiku;In Progress;Slipped on steel deck;No grip tape
+10/05/2024;Site A;Chemical;Chemical Splash;minor;Abigail Mwikali;female;31;Face;0;40;James Oloo;closed;Splash during lab cleaning;PPE not worn
+2024-05-11;SITE C;Construction;STRUCK BY OBJECT;Major;Brian Omondi;Male;45;Shoulder;8;56;Tom Kipchoge;Pending;Hit by crane load;Exclusion zone breached
+12-May-24;Site B;Electrical;electric shock;MINOR;Clara Wangari;F;24;Arm;0;38;Sarah Wanjiku;CLOSED;Minor shock from wire;Insulation worn
+13/05/2024;site a;Construction;Fall from height;moderate;Derek Maina;Male;36;Back;4;50;James Oloo;open;Fell from scaffolding;Platform overcrowded
+May 14 2024;Site C;Mechanical;caught in machinery;MINOR;Eunice Otieno;Female;29;Hand;1;44;Tom Kipchoge;In Progress;Hand caught in mixer;No guard fitted
+15-05-2024;SITE B;Construction;SLIP AND FALL;major;Felix Kiprotich;Male;42;Knee;6;58;Sarah Wanjiku;PENDING;Knee ligament injury on stairs;Nosing missing
+16/05/2024;Site A;Chemical;chemical splash;MODERATE;Gloria Oduya;female;33;Eyes;2;46;James Oloo;closed;Eye injury in store;Shelf too high
+2024-05-17;site c;Construction;struck by object;minor;Henry Mutuku;Male;27;Head;0;36;Tom Kipchoge;CLOSED;Grazed by falling plank;No helmet initially
+18-May-24;Site B;Electrical;Electric shock;MAJOR;Irene Wanjiku;Female;40;Arm;9;60;Sarah Wanjiku;open;Electrocuted at substation;Unauthorized access
+19/05/2024;SITE A;Construction;FALL FROM HEIGHT;minor;James Moraa;M;26;Ankle;1;40;James Oloo;In Progress;Fell from step ladder;Overreaching
+May 20th 2024;Site C;Mechanical;Caught In Machinery;moderate;Kathleen Omondi;Female;34;Fingers;4;52;Tom Kipchoge;pending;Fingers in pulley;Belt exposed
+21-05-2024;site b;Construction;slip and fall;MINOR;Lawrence Kamau;Male;39;Wrist;0;42;Sarah Wanjiku;Closed;Tripped on hose pipe;Hose not coiled
+22/05/2024;Site A;Chemical;CHEMICAL SPLASH;major;Margaret Adhiambo;female;28;Face;1;44;James Oloo;OPEN;Face burn from acid;Container leaked
+2024-05-23;SITE C;Construction;Struck by object;MODERATE;Nathan Waweru;Male;44;Leg;5;54;Tom Kipchoge;closed;Hit by scaffolding clip;Material not secured
+24-May-24;Site B;Electrical;electric shock;minor;Olivia Njeri;F;25;Hand;0;36;Sarah Wanjiku;In Progress;Shock from extension cord;Damaged cord used
+25/05/2024;site a;Construction;fall from height;MAJOR;Patrick Ochieng;Male;37;Head;12;64;James Oloo;Pending;Fatal near miss — fell 4m;No safety harness
+May 26 2024;Site C;Mechanical;CAUGHT IN MACHINERY;minor;Queen Wambui;Female;30;Hand;1;40;Tom Kipchoge;CLOSED;Minor crush from roller;Distraction
+27-05-2024;SITE B;Construction;SLIP AND FALL;moderate;Richard Kipkoech;Male;41;Hip;3;48;Sarah Wanjiku;open;Slipped near excavation;Muddy walkway
+28/05/2024;Site A;Chemical;chemical splash;MINOR;Sylvia Akinyi;female;27;Eyes;0;38;James Oloo;closed;Splash from spray bottle;Incorrect nozzle
+2024-05-29;site c;Construction;struck by Object;major;Thomas Mwangi;Male;46;Shoulder;7;58;Tom Kipchoge;In Progress;Struck by reversing vehicle;No banksman
+30-May-24;Site B;Electrical;Electric Shock;MODERATE;Ursula Chebet;Female;32;Arm;3;46;Sarah Wanjiku;PENDING;Shock during rewiring;Live work conducted
+31/05/2024;SITE A;Construction;FALL FROM HEIGHT;minor;Victor Otieno;M;29;Back;1;40;James Oloo;Closed;Fell from 1m ledge;No barriers
+June 1 2024;site c;Mechanical;caught in machinery;MODERATE;Winnie Kamau;Female;35;Fingers;4;52;Tom Kipchoge;open;Fingers in gear system;Cover plate removed
+02/06/2024;Site B;Construction;slip and fall;MINOR;Xavier Mutua;Male;43;Knee;0;36;Sarah Wanjiku;CLOSED;Slipped on polished floor;Wrong footwear
+2024-06-03;SITE A;Chemical;Chemical Splash;major;Yvonne Muthoni;female;26;Face;2;44;James Oloo;In Progress;Burn from cleaning agent;Incorrect chemical used
+04-Jun-24;Site C;Construction;STRUCK BY OBJECT;minor;Zachary Oloo;Male;38;Head;1;42;Tom Kipchoge;pending;Hit by falling bolt;Working below others
+05/06/2024;site b;Electrical;electric shock;MODERATE;Amina Wanjiru;Female;31;Hand;2;46;Sarah Wanjiku;Closed;Shock during switchgear work;No isolation
+06-06-2024;Site A;Construction;Fall from height;MAJOR;Bernard Kariuki;Male;44;Head;10;62;James Oloo;OPEN;Fell from formwork;Formwork collapsed
+June 7th 2024;SITE C;Mechanical;CAUGHT IN MACHINERY;minor;Caroline Adhiambo;F;28;Hand;0;38;Tom Kipchoge;closed;Near miss at conveyor;Operator slipped
+08/06/2024;site b;Construction;slip and Fall;moderate;Douglas Odhiambo;Male;35;Hip;3;48;Sarah Wanjiku;In Progress;Slipped on ramp;Ramp gradient too steep
+09/06/2024;Site A;Chemical;chemical splash;MINOR;Elizabeth Njoroge;female;29;Eyes;0;36;James Oloo;PENDING;Eye irritation from dust;Dusty environment
+2024-06-10;SITE C;Construction;Struck by object;major;Franklin Mutuku;Male;47;Shoulder;8;58;Tom Kipchoge;closed;Hit by concrete block;Improper storage
+11-Jun-24;Site B;Electrical;ELECTRIC SHOCK;MINOR;Gloria Wekesa;Female;23;Arm;0;40;Sarah Wanjiku;CLOSED;Shock from socket;Socket damaged
+12/06/2024;site a;Construction;FALL FROM HEIGHT;moderate;Harold Mwikali;Male;36;Back;4;50;James Oloo;open;Fell from cherry picker;Platform not level
+June 13 2024;Site C;Mechanical;caught in machinery;MINOR;Irene Omondi;female;32;Fingers;1;44;Tom Kipchoge;In Progress;Caught in chain drive;Chain guard absent
+14-06-2024;SITE B;Construction;slip and fall;MAJOR;James Wangari;Male;45;Knee;7;56;Sarah Wanjiku;Pending;Knee shattered on concrete steps;Steps broken
+15/06/2024;Site A;Chemical;Chemical splash;minor;Kezia Auma;Female;27;Face;0;38;James Oloo;CLOSED;Minor splash during mixing;SOP deviation
+2024-06-16;site c;Construction;STRUCK BY OBJECT;moderate;Leonard Kipchoge;Male;40;Leg;3;50;Tom Kipchoge;open;Hit by swinging gate;Gate not latched
+17-Jun-24;Site B;Electrical;electric shock;MINOR;Martha Wanjiku;F;26;Hand;0;36;Sarah Wanjiku;closed;Shock from loose wire;Wire hanging exposed
+18/06/2024;SITE A;Construction;fall from height;MAJOR;Nicholas Ochieng;Male;43;Head;13;66;James Oloo;In Progress;Fell from tower scaffold;Scaffold not inspected
+June 19th 2024;site c;Mechanical;CAUGHT IN MACHINERY;minor;Olivia Maina;Female;31;Fingers;1;42;Tom Kipchoge;PENDING;Finger tip crush;Inattention at machine
+20-06-2024;Site B;Construction;Slip And Fall;moderate;Philip Njeri;Male;37;Hip;4;48;Sarah Wanjiku;Closed;Slipped near water bowser;Muddy ground
+21/06/2024;Site A;Chemical;chemical Splash;MINOR;Quincy Adhiambo;female;25;Eyes;0;36;James Oloo;OPEN;Eye splash in store;Chemical stored incorrectly
